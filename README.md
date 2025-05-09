@@ -27,4 +27,4 @@ pyTelegramBotAPI;
 Python 3.10+
 Библиотека pyTelegramBotAPI
 
-Made by mqproga 
+Made by **mqproga**
